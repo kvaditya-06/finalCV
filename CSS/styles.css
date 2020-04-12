@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+  font-family: 'Comic Neue', cursive;
+  margin: 0;
+}
+
+.header {
+  background-color: #d4f8e8;
+  height: 100%;
+}
+
+h1{
+  color: #4cd3c2;
+  margin: 0;
+  padding-top: 20%;
+font-family: 'Sacramento', cursive,sans-serif;
+font-size: 7rem;
+}
+
+h2{
+  color: #4cd3c2;
+  font-family: 'Kaushan Script', cursive,sans-serif;
+  font-size: 3rem;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+h3{
+  color: #4cd3c2;
+  font-size: 2rem;
+}
+
+h4{
+  color: #4cd3c2;
+  font-size: 1.5rem;
+}
+
+hr{
+
+  border-radius: 1px;
+  width: 5%;
+
+}
+
+.cloud1{
+  position: absolute;
+  left: 150px;
+  bottom:500px;
+}
+
+.cloud2{
+  position: absolute;
+  right: 150px;
+  bottom: 400px;
+}
+
+.sun{
+  position: absolute;
+  left:200px;
+  bottom: 550px;
+}
+
+.city{display: block;
+position: relative;
+left: 200px;
+  }
+
+.me{
+  padding-top: 40px;
+}
+
+.skills{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.sm{
+  padding-right: 20px;
+}
